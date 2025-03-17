@@ -1,0 +1,6 @@
+pandas  
+pyterrier  
+torch  
+sentence-transformers  
+transformers  
+scikit-learn  
