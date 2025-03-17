@@ -16,7 +16,7 @@ The system personalizes search results by analyzing **user similarities** based 
 
 Given a user's tag history (questions they asked), we intersect it with the tags of users who previously answered similar questions. The **similarity score** is computed as:
 
-<img align="center" src="latex-formula.png" />
+<img align="center" width="350" src="latex-formula.png" />
 
 Higher scores indicate greater similarity, allowing us to rank answers accordingly.
 
