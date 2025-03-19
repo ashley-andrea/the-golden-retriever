@@ -31,3 +31,9 @@ pip install -r requirements.txt.
 **⚠️ GPU Required:**
 
 The project leverages **Microsoft/Phi-3-mini-4k-instruct** for query expansion, which requires CUDA. Ensure that a **CUDA-compatible GPU** is available for execution.
+
+## Authors
+
+<div align="center"> <table> <tr> <td align="center"> <a href="https://github.com/ashley-andrea"> <img src="https://github.com/ashley-andrea.png" width="100px;" alt="Ashley Andrea Squarcio"/><br /> <sub><b>ashley-andrea</b></sub> </a> </td> <td align="center"> <a href="https://github.com/PietroSaveri"> <img src="https://github.com/PietroSaveri.png" width="100px;" alt="Pietro Saveri"/><br /> <sub><b>pietrosaveri</b></sub> </a> </td> </tr> </table> </div>
+
+
